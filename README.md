@@ -1,2 +1,2 @@
-# Desarrollo-de-aplicaciones-avanzadas-de-ciencias-computacionales-Gpo-506-
-Actividades de clase: Desarrollo de aplicaciones avanzadas de ciencias computacionales 
+# TC3002B.506
+Actividades de la materia TC3002B.506 en 8to semestre
